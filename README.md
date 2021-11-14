@@ -8,3 +8,10 @@ The crowdsale contract that you create will manage the entire crowdsale process,
 
 ### Evaluation Evidence
 
+![KaseiCoin compiled](KaseiCoin.png)
+
+![KaseiCoin crowdsale](KaseiCoinCrowdsale.png)
+
+![KaseiCoin crowdsale deployer](KaseiCoinCrowdsaleDeployer.png)
+
+![KaseiCoin video](Deployed.mov)
